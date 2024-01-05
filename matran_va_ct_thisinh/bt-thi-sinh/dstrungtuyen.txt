@@ -1,0 +1,4 @@
+danh sach thi sinh trung tuyen
+so bao danh: 01 ho ten: ten 1 diem thi 26.50
+so bao danh: 02 ho ten: ten 2 diem thi 26.00
+so bao danh: 04 ho ten: ten 4 diem thi 29.00
